@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a Data Analytics project analyzing the impacts of COVID 19 pandemic on the future of tourism in Ireland**
 
-- 💬 Ask me about **Python, SQL, Tableau**
+- 💬 Ask me about **anything DATA and AWS**
 
 - 📫 How to reach me **sonalshetty70@gmail.com**
 
