@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I am Sonal</h1>
-<h3 align="center">I am a Data Analyst with professional experience in Data analytics and Software Development</h3>
-
-- 🔭 I’m currently working on **a Data Analytics project analyzing the impacts of COVID 19 pandemic on the future of tourism in Ireland**
-
-- 💬 Ask me about **anything DATA and AWS**
 
 - 📫 How to reach me **sonalshetty70@gmail.com**
 
